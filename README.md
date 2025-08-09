@@ -93,11 +93,11 @@ The system:
 ---
 
 ## 📊 Model Performance
-- **Best Model:** Random Forest Classifier (AutoAI Pipeline-3)
-- **Accuracy:** 98.7%
-- **F1-score:** 0.986
-- **Precision:** 0.987
-- **Recall:** 0.986
+- **Best Model:** XGB Classifier (AutoAI Pipeline-15)
+- **Accuracy:** 99.8%
+- **F1-score:** 0.998
+- **Precision:** 0.996
+- **Recall:** 0.999
 
 ---
 
