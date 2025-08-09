@@ -117,11 +117,15 @@ The system:
 <img width="1865" height="355" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/11418453-2a2c-4e69-94ea-20154e228adf" />
 3. AutoAI Progress map & Pipeline leaderboard  
 
+
+
+
+
 <img width="627" height="621" alt="image" src="https://github.com/user-attachments/assets/ce9a818f-cfdf-47f0-bd7d-7f8089e1ed8b" />
 <img width="1278" height="576" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/fa070817-2e99-45a1-b51c-b47dd2cf032f" />
 4. Best pipeline evaluation (confusion matrix, ROC curve)  
 
-<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/bd85a1de-37b3-4626-9c38-cde9ccf8c0b1" />
+<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/ca0f3c7b-c836-4d07-89f9-ba8047b2bf78" />
 7. Model saved in assets  
 
 <img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/c244d80b-10c4-4563-a82d-09486dce04fa" />
@@ -129,7 +133,6 @@ The system:
 8. Deployment creation screen  
 
 <img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/f30f8ec1-2dbc-4364-9b39-476568fe970e" />
-
 9. Scoring URL & API key 
 
 <img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/ca834062-d04d-4ff2-a30a-2b55f00f9d90" />
