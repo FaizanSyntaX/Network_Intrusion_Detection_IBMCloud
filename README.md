@@ -107,15 +107,19 @@ The system:
 <img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/fea8b152-1d24-48b5-bf77-0eb4c2e75370" />
 1. Dataset uploaded in Watson Studio  
 
+
 <img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/b6f0fd05-8a40-481e-9624-3cc1fa89a89e" />
 2. AutoAI experiment creation screen  
+
 
 <img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/2e31b72b-df27-4675-a9f9-86d88f78e9f5" />
 <img width="1867" height="512" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/0b607785-c760-472b-8391-d5c7c9b784bd" />
 <img width="1862" height="357" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/4c777940-8c86-4bf6-823d-11b04abea8d8" />
 <img width="1867" height="361" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/5639017b-3d3e-49bf-b443-aac7fbcb0225" />
 <img width="1865" height="355" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/11418453-2a2c-4e69-94ea-20154e228adf" />
+
 3. AutoAI Progress map & Pipeline leaderboard  
+
 
 
 
@@ -125,15 +129,19 @@ The system:
 <img width="1278" height="576" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/fa070817-2e99-45a1-b51c-b47dd2cf032f" />
 4. Best pipeline evaluation (confusion matrix, ROC curve)  
 
+
 <img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/ca0f3c7b-c836-4d07-89f9-ba8047b2bf78" />
 7. Model saved in assets  
+
 
 <img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/c244d80b-10c4-4563-a82d-09486dce04fa" />
 <img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/24f7c3e3-ff38-4bdf-b565-594233b0fd94" />
 8. Deployment creation screen  
 
+
 <img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/f30f8ec1-2dbc-4364-9b39-476568fe970e" />
 9. Scoring URL & API key 
+
 
 <img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/ca834062-d04d-4ff2-a30a-2b55f00f9d90" />
 10. Testing
