@@ -103,31 +103,37 @@ The system:
 
 ## 📷 Screenshots
 
+<img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/6edb56b0-ab36-4ad4-9ea7-4c5402a8ee62" />
 <img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/fea8b152-1d24-48b5-bf77-0eb4c2e75370" />
 1. Dataset uploaded in Watson Studio  
 
 <img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/b6f0fd05-8a40-481e-9624-3cc1fa89a89e" />
 2. AutoAI experiment creation screen  
 
-<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/ffcd7903-5b60-4e64-8b3d-5e6a298c2e81" />
-<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/77520c16-526a-4c1d-bc4e-4bfa0708145d" />
-3. AutoAI pipeline leaderboard  
+<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/2e31b72b-df27-4675-a9f9-86d88f78e9f5" />
+<img width="1867" height="512" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/0b607785-c760-472b-8391-d5c7c9b784bd" />
+<img width="1862" height="357" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/4c777940-8c86-4bf6-823d-11b04abea8d8" />
+<img width="1867" height="361" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/5639017b-3d3e-49bf-b443-aac7fbcb0225" />
+<img width="1865" height="355" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/11418453-2a2c-4e69-94ea-20154e228adf" />
+3. AutoAI Progress map & Pipeline leaderboard  
 
-<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/3c3e8ff3-e64e-4720-82f0-964533b78c74" />
-<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/cb4b5bee-50f4-495a-bd8f-4f8b0ab779fe" />
+<img width="627" height="621" alt="image" src="https://github.com/user-attachments/assets/ce9a818f-cfdf-47f0-bd7d-7f8089e1ed8b" />
+<img width="1278" height="576" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/fa070817-2e99-45a1-b51c-b47dd2cf032f" />
 4. Best pipeline evaluation (confusion matrix, ROC curve)  
 
 <img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/bd85a1de-37b3-4626-9c38-cde9ccf8c0b1" />
 7. Model saved in assets  
 
-<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/71f78480-bdd6-44dc-86e9-5a1e8c2664fb" />
-<img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/500fb140-547f-401a-92f9-6de8980a888f" />
+<img width="1920" height="1080" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/c244d80b-10c4-4563-a82d-09486dce04fa" />
+<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/24f7c3e3-ff38-4bdf-b565-594233b0fd94" />
 8. Deployment creation screen  
 
-<img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/b783b1aa-c0ef-492f-842e-9811280917e1" />
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/f30f8ec1-2dbc-4364-9b39-476568fe970e" />
+
 9. Scoring URL & API key 
 
-<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/d80680f2-14ca-40f6-810e-ab3b304f2989" />
+<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/ca834062-d04d-4ff2-a30a-2b55f00f9d90" />
+10. Testing
 
 ---
 
